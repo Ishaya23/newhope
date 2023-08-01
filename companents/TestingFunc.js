@@ -35,7 +35,6 @@ const styles = StyleSheet.create({
   name:{
     color:'green',
     fontSize:30,
-    padding:9,
     marginTop:-100
 
   },
@@ -68,6 +67,7 @@ const styles = StyleSheet.create({
     marginTop:10,
     resizeMode:'contain',
     height:'70%',
+    width:'100%',
     borderRadius:10 
   }
 
